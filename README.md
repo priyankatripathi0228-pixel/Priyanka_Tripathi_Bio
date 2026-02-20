@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+Engineering+%7C+LLMs+%7C+RAG+%7C+Agents+%7C+Machine+Learning;Building+Real-World+AI+Solutions;Data+Driven+Decision+Maker;Always+Learning+Always+Building" />
+  <img src= />
 </p>
 
 ---
@@ -74,7 +74,7 @@ End-to-end ML project with:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" />
+  <img src="<img loading="lazy" decoding="async" width="1200" height="628" src="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg" class="attachment-full size-full wp-post-image" alt="AI Tidal Wave cartoon" srcset="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg 1200w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-300x157.jpg 300w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-600x314.jpg 600w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-400x209.jpg 400w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-550x288.jpg 550w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-322x169.jpg 322w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-768x402.jpg 768w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-60x31.jpg 60w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-110x58.jpg 110w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-100x52.jpg 100w" sizes="auto, (max-width: 1200px) 100vw, 1200px"> />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
 </p>
 
