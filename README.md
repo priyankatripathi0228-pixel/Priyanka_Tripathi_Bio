@@ -38,11 +38,11 @@ alt="AI Tidal Wave cartoon">
 # 📊 Professional Experience
 
 
-# 🚀 Data Analytics Intern – YoShops  May 2025 – June 2025 | Chennai
+## 🚀 Data Analytics Intern – YoShops  May 2025 – June 2025 | Chennai
 
 Built end-to-end ETL pipelines to clean, transform, and validate large financial datasets, ensuring data accuracy and reporting reliability. Performed data modeling and transformation to create analytics-ready datasets for financial and sales performance analysis. Developed interactive Power BI dashboards with advanced DAX to track KPIs like revenue, profitability, customer trends, and regional performance. Applied statistical analysis and time-series forecasting to identify growth opportunities and demand patterns. Conducted EDA to uncover insights in customer behavior and profitability drivers. Translated complex data into strategic business recommendations and optimized large datasets for improved dashboard performance.
 
-# 📈 Business Analytics Intern – Saiket Systems Oct 2025 – Nov 2025 | Pune
+## 📈 Business Analytics Intern – Saiket Systems Oct 2025 – Nov 2025 | Pune
 
 Performed data cleaning and preprocessing on a telecommunications dataset, handling missing values and standardizing columns to ensure data integrity for analysis. Conducted Exploratory Data Analysis (EDA) to understand data trends, generating summary statistics and visualizations to analyze churn vs. non-churn proportions. Developed customer segmentation based on tenure, demographics, and contract types to identify at-risk customer groups. Created visualizations, including pie charts and clustered bar charts, to compare key metrics like average monthly charges and churn rates across different customer segments. Delivered actionable insights by analyzing churn drivers, aiming to provide recommendations for improving customer retention. how to segregate the section and how to increase the size of important headings
 
