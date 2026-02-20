@@ -1,96 +1,92 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Priyanka Tripathi</h1>
 
 <h3 align="center">
-🚀 AI Engineer | LLM Engineer | Machine Learning | Data Science | Building Intelligent Systems
+AI Engineer | Machine Learning | LLMs | RAG | Data Analytics | Building Intelligent Systems
 </h3>
 
 <p align="center">
-  <img src= />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=AI+Engineering+%7C+LLM+%7C+RAG+%7C+Agents;Machine+Learning+%7C+Data+Science;Building+Impactful+AI+Systems;Always+Learning+Always+Building" />
 </p>
 
 ---
 
-# 🧠 About Me
-
-🔹 AI Engineering enthusiast focused on **LLMs, RAG systems & Intelligent Agents**  
-🔹 Skilled in designing end-to-end ML pipelines  
-🔹 Passionate about building real-world AI applications  
-🔹 Exploring: LLM Fine-tuning, QLoRA, Vector Databases, Agentic AI  
-
----
-
-# ⚡ AI Engineering Stack
-
-## 🤖 LLM & GenAI
-- OpenAI APIs  
-- LangChain  
-- RAG Architecture  
-- QLoRA & Fine-tuning  
-- Prompt Engineering  
-- Vector Databases (FAISS / Pinecone)
-
-## 🧠 Machine Learning
-- Scikit-Learn  
-- TensorFlow / PyTorch  
-- Feature Engineering  
-- Model Evaluation & Deployment  
-
-## 📊 Data Stack
-- Python (Pandas, NumPy)  
-- SQL  
-- Tableau / Power BI  
-- Data Cleaning & Transformation  
-
-## ☁️ Deployment & Tools
-- Git & GitHub  
-- Streamlit / Flask  
-- Docker (Learning)  
-- API Integration  
-
----
-
-# 🚀 Featured AI Projects
-
-### 🔹 LLM-based RAG Chatbot
-Built an intelligent Q&A system using:
-- Vector database
-- Retrieval pipeline
-- Context-aware LLM responses
-
-### 🔹 AI Resume Analyzer
-ML-based resume screening system with NLP
-
-### 🔹 ML Prediction Model
-End-to-end ML project with:
-- Data preprocessing
-- Feature selection
-- Model comparison
-- Deployment
-
----
-
-# 📊 GitHub Stats
+<!-- =============== AI IMAGE SECTION =============== -->
 
 <p align="center">
-  <img src="<img loading="lazy" decoding="async" width="1200" height="628" src="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg" class="attachment-full size-full wp-post-image" alt="AI Tidal Wave cartoon" srcset="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg 1200w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-300x157.jpg 300w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-600x314.jpg 600w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-400x209.jpg 400w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-550x288.jpg 550w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-322x169.jpg 322w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-768x402.jpg 768w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-60x31.jpg 60w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-110x58.jpg 110w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-100x52.jpg 100w" sizes="auto, (max-width: 1200px) 100vw, 1200px"> />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" />
+<img loading="lazy" decoding="async" width="900"
+src="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg"
+alt="AI Tidal Wave cartoon">
 </p>
 
 ---
 
-# 🌍 Connect With Me
+## 🧠 About Me
+
+🚀 AI Engineer passionate about building real-world AI systems  
+🤖 Working with LLMs, RAG pipelines, and AI Agents  
+📊 Strong foundation in Data Analytics & Visualization  
+🛠 Turning data into intelligent automation solutions  
+🌱 Currently exploring advanced AI Engineering & Generative AI
+
+---
+
+## 🧰 Tech Stack
+
+### 👨‍💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 AI / ML
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+
+### 📊 Data & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🚀 Featured AI Focus Areas
+
+✔️ LLM Application Development  
+✔️ Retrieval-Augmented Generation (RAG)  
+✔️ Prompt Engineering  
+✔️ AI Agents & Automation  
+✔️ Model Fine-Tuning (QLoRA)  
+✔️ Data-Driven Decision Systems  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src=<img loading="lazy" decoding="async" width="1200" height="628" src="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg" class="attachment-full size-full wp-post-image" alt="AI Tidal Wave cartoon" srcset="https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai.jpg 1200w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-300x157.jpg 300w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-600x314.jpg 600w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-400x209.jpg 400w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-550x288.jpg 550w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-322x169.jpg 322w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-768x402.jpg 768w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-60x31.jpg 60w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-110x58.jpg 110w, https://marketoonist.com/wp-content/uploads/2023/01/230109.n.impactai-100x52.jpg 100w" sizes="auto, (max-width: 1200px) 100vw, 1200px">/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ *"Building AI that solves real problems, not just notebooks."*
+<h3 align="center">⚡ "Building AI that Solves Real Problems."</h3>
